@@ -13,3 +13,4 @@ which perl
 #一个简单示例：
 #! /usr/bin/perl
 print "Hello,word!\n"; #和python不同的是，需要自己加\n，且命令行结尾要写分号；
+hhh
